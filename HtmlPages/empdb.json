@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "name": "Omkar",
+      "profile": "../assets/profile-images/Ellipse -8.png",
+      "gender": "Male",
+      "department": "HR,Finance",
+      "salary": "375000",
+      "startdate": "19/Sep/2019",
+      "id": 1
+    },
+    {
+      "name": "Swati",
+      "profile": "../assets/profile-images/Ellipse 1.png",
+      "gender": "Female",
+      "department": "HR,Finance",
+      "salary": "375000",
+      "startdate": "10/Sep/2016",
+      "id": 4
+    },
+    {
+      "name": "Surendra",
+      "profile": "../assets/profile-images/Ellipse -8.png",
+      "gender": "Male",
+      "department": "Finance,Others",
+      "salary": "325000",
+      "startdate": "17/Mar/2018",
+      "id": 5
+    }
+  ]
+}
